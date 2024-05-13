@@ -1,17 +1,17 @@
 #
-# Copyright (C) 2016+ AzerothCore <www.azerothcore.org>, released under GNU AGPL v3 license: https://github.com/azerothcore/azerothcore-wotlk/blob/master/LICENSE-AGPL3
+# 版权所有 (C) 2016+ AzerothCore <www.azerothcore.org>，根据 GNU AGPL v3 许可发布：https://github.com/azerothcore/azerothcore-wotlk/blob/master/LICENSE-AGPL3
 #
 
 [worldserver]
 
 ########################################
-# Reagent Bank Config
+# 药剂银行配置
 ########################################
 #
 #    ReagentBank.Enable
-#        Description: Enable the reagent bank
-#        Default:     0 - Disabled
-#                     1 - Enabled
+#        描述: 启用材料仓库
+#        默认:     0 - 禁用
+#                     1 - 启用
 #
 
 ReagentBank.Enable = 1
